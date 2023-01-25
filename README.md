@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Cloud Computing Training](https://user-images.githubusercontent.com/121564302/214495545-52a6060d-d5cb-480c-8a7e-c6cb68ed4642.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
